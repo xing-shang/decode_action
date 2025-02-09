@@ -1,4 +1,4 @@
-//Sun Feb 09 2025 15:03:25 GMT+0000 (Coordinated Universal Time)
+//Sun Feb 09 2025 15:05:28 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 !function (_0x3da497) {
